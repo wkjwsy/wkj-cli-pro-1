@@ -7,7 +7,7 @@
 
 <script lang="ts">
 class Msg {
-    public msg: string = 'hello world wkj';
+    public msg: string = 'hello world wkj 自动化部署测试-1';
     GetMoreMsg(): string{
         return'webpack+vue+typescript+less'
     }
